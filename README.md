@@ -4,7 +4,7 @@
 Automated spelling correction for Word documents (`.docx`).
 Built to handle large, multi-page documents efficiently.
 
-> 🔒 The source code is private. Available on request.
+> 🔒 The source code is private. Available on request or hiring.
 
 ## Demo
 
